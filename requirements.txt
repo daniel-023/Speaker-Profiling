@@ -1,0 +1,11 @@
+pydub
+transformers 
+librosa 
+torch 
+pandas 
+openpyxl 
+scikit-learn 
+matplotlib 
+seaborn 
+imblearn 
+plotly
