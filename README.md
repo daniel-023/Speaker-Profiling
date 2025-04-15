@@ -32,7 +32,7 @@ This  Jupyter Notebook performs the main analysis:
 ## Results
 
 ### Clustering
-![](https://github.com/daniel-023/Speaker-Profiling/visualisationsblob/main/t-SNE_plot.png)
+![](https://github.com/daniel-023/Speaker-Profiling/blob/main/visualisations/t-SNE_plot.png)
 
 ### Classification Accuracy (%)
 |                     | Gender | Age    | Ethnicity | Education |
