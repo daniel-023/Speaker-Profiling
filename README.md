@@ -30,4 +30,15 @@ This  Jupyter Notebook performs the main analysis:
     - Education Level
 
 ## Results
-TODO
+
+### Clustering
+![t-SNE Clustering Plot](https://github.com/daniel-023/Speaker-Profiling/t-SNE_plot.png)
+
+### Classification Accuracy (%)
+|                     | Gender | Age    | Ethnicity | Education |
+|---------------------|--------|--------|-----------|-----------|
+| Logistic Regression | 96     | 55     | 71        | 40        |
+| Random Forest       | 95     | 53     | 62        | 42        |
+| Naive Bayes         | 83     | 59     | 57        | 41        |
+| SVM                 | 97     | **64** | **72**    | 41        |
+| MLP                 | **99** | 58     | 64        | **44**    |
